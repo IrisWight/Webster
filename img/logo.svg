@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="94" height="98" viewBox="0 0 93 98">
+  <defs>
+    <style>
+
+      .cls-4 {
+        stroke: #ffffff;
+        stroke-width: 2px;
+        fill: none;
+      }
+
+      .cls-5 {
+        stroke: #f6f7fc;
+        stroke-width: 2px;
+        fill: none;
+      }
+
+      .cls-6 {
+        fill: #ffffff;
+      }
+    </style>
+  </defs>
+  <g id="logosvg">
+    <path d="M87.996,96.000 C87.996,96.000 48.000,19.004 48.000,19.004 C48.000,19.004 8.004,96.000 8.004,96.000 C8.004,96.000 87.996,96.000 87.996,96.000 Z" id="path-1" class="cls-4" fill-rule="evenodd"/>
+    <circle id="circle-1" class="cls-5" cx="47" cy="47" r="46"/>
+    <circle id="circle-2" class="cls-6" cx="47" cy="93" r="5"/>
+    <circle id="circle-3" class="cls-6" cx="84" cy="93" r="5"/>
+    <circle id="circle-4" class="cls-6" cx="7" cy="93" r="5"/>
+  </g>
+</svg>

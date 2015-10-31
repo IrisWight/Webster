@@ -1,0 +1,26 @@
+@import "compass";
+
+@include font-face("lato-bold-webfont",
+		font-files("lato-bold-webfont.ttf", "lato-bold-webfont.woff", "lato-bold-webfont.eot"));
+
+@include font-face("lato-lightitalic-webfont",
+		font-files("lato-lightitalic-webfont.ttf", "lato-lightitalic-webfont.woff", "lato-lightitalic-webfont.eot"));
+
+@include font-face("lato-light-webfont",
+		font-files("lato-light-webfont.ttf", "lato-light-webfont.woff", "lato-light-webfont.eot"));
+
+@include font-face("lato-regular-webfont",
+		font-files("lato-regular-webfont.ttf", "lato-regular-webfont.woff", "lato-regular-webfont.eot"));
+
+
+
+@font-face {
+  font-family: 'icomoon';
+  src:url('../fonts/icomoon.eot?fvqpgx');
+  src:url('../fonts/icomoon.eot?fvqpgx#iefix') format('embedded-opentype'),
+  url('../fonts/icomoon.ttf?fvqpgx') format('truetype'),
+  url('../fonts/icomoon.woff?fvqpgx') format('woff'),
+  url('../fonts/icomoon.svg?fvqpgx#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
